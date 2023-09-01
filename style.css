@@ -784,7 +784,7 @@ form button {
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 450px) {
   .home {
     height: 100vh;
     display: flex;
@@ -1035,14 +1035,14 @@ form button {
   
   .about-content h1 {
     position: relative;
-    font-size: 18px;
+    font-size: 21px;
     font-weight: 700;
     line-height: 1.2;
   }
   
   .about-content p {
     position: relative;
-    font-size: 10px;
+    font-size: 13px;
     margin: 20px 0 40px;
   }
   
