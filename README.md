@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### 9/1/23 - Updated Portfolio and Made the Website Less Worse XD
+### 9/1/23 - Made it Responsive!!! Website looks good on mobile and tablets!!!
 
 <!--
 **somethingfunnyhehe/somethingfunnyhehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
